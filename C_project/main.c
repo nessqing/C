@@ -10,6 +10,7 @@
 
 int main() {
     // insert code here...
+    //%2s == 
     char card_name[3];
     puts("Enter the card_name");
     scanf("%2s",card_name);
